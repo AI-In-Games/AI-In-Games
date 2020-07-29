@@ -2,7 +2,7 @@
 
 ### AI In Games
 
-#This repository is to provide code examples for:
+## This repository is to provide code examples for:
 * [AI In Games blog](http://aiingames.com)
 * [AI In Games YouTube channel](https://www.youtube.com/channel/UCtkum83Ouurgeka9pgmbJxw)
 
