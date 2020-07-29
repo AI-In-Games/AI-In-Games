@@ -1,4 +1,10 @@
-### Hi there 👋
+![](http://aiingames.com/wp-content/uploads/2020/07/Main-graphic-adjusted.jpg)
+
+### AI In Games
+
+#This repository is to provide code examples for:
+* [AI In Games blog](http://aiingames.com)
+* [AI In Games YouTube channel](https://www.youtube.com/channel/UCtkum83Ouurgeka9pgmbJxw)
 
 <!--
 **AI-In-Games/AI-In-Games** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
