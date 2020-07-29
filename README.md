@@ -1,6 +1,5 @@
-![](http://aiingames.com/wp-content/uploads/2020/07/Main-graphic-adjusted.jpg)
-
 ### AI In Games
+![](http://aiingames.com/wp-content/uploads/2020/07/Main-graphic-adjusted.jpg)
 
 ## This repository is to provide code examples for:
 * [AI In Games blog](http://aiingames.com)
